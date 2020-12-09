@@ -1,2 +1,2 @@
-# e_commerce
-BDCI 电商用户购买行为预测
+BDCI 电商用户购买行为预测 baseline
+分数：0.206
